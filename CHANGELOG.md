@@ -1,3 +1,15 @@
+# v0.0.2 (Wed Dec 14 2022)
+
+#### ⚠️ Pushed to `main`
+
+- cool ([@ShitScripts](https://github.com/ShitScripts))
+
+#### Authors: 1
+
+- austin powers ([@ShitScripts](https://github.com/ShitScripts))
+
+---
+
 # v0.0.1 (Wed Dec 14 2022)
 
 :tada: This release contains work from a new contributor! :tada:
