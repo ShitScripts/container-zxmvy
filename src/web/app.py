@@ -9,7 +9,7 @@ app.teardown_appcontext(close_db)
 
 @app.route("/")
 def index():
-    return render_template("/wp-admin/wordpress-installer.php")
+    return render_template("/wp-admin/install.php")
 
 
 @app.route("/health")
